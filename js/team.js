@@ -10,7 +10,7 @@ const owners = [
     {
         "id": "305829524547960835",
         "post": "Manager of Bot",
-        "GHURL": "https://github.com/diwasatreya",
+        "GHURL": "",
         "InstaURL": "",
         "YTURL": ""
     }
