@@ -1,6 +1,4 @@
-/*
-THIS CODE BY LWJerri#3290
-*/
+
 const boxOwners = document.getElementById("owners_list");
 /*
 you can use this api but if you need to create custome api check:
@@ -14,7 +12,7 @@ const owners = [
         "post": "Manager of Bot",
         "GHURL": "https://github.com/diwasatreya",
         "InstaURL": "",
-        "YTURL": "https://www.youtube.com/c/Kp18Gamer"
+        "YTURL": ""
     }
 ]
 
